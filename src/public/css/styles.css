@@ -2375,22 +2375,6 @@ list-style: none;
 margin-bottom: 0.75rem;
 }
 
-.footer-student {
-background: linear-gradient(145deg, var(--negro-gris) 0%, var(--gris-oscuro) 100%);
-padding: 2rem;
-border-radius: 16px;
-text-align: center;
-border: 1px solid var(--glass-border);
-}
-
-.footer-student p {
-margin-bottom: 0.5rem;
-}
-
-.footer-student strong {
-color: var(--rojo-brillante);
-}
-
 .footer-bottom {
 max-width: 1200px;
 margin: 0 auto;

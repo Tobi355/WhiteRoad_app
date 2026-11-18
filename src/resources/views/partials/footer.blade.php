@@ -24,13 +24,6 @@
             <p>Sábados: 9:00 - 13:00</p>
             <p>Domingos: Cerrado</p>
         </div>
-
-        <div class="footer-section footer-student">
-            <h2>Alumno</h2>
-            <p><strong>Nombre:</strong> Tobias Blanco</p>
-            <p><strong>Edad:</strong> 21 años</p>
-            <p><strong>Email:</strong> tobias.blanco@davinci.edu.ar</p>
-        </div>
     </div>
 
     <div class="footer-bottom">
